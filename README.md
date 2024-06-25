@@ -6,5 +6,5 @@ This is a web application built with HTML, CSS, and JavaScript that allows you t
 - The application will fetch book information from the Google Books API and display the results.
 
 **Credits:**
-- Google Books API ([https://developers.google.com/books/docs/v1/using](https://developers.google.com/books/docs/v1/using))
+- Google Books ([API](https://developers.google.com/books/docs/v1/using))
 
