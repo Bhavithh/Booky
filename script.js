@@ -1,4 +1,4 @@
-const apiKey = "AIzaSyA1qWnr-qm-ZNSZkYsuOeYXw5E1C0zTK1U";
+const apiKey = "API_KEY";
 const bookContainer = document.getElementById("bookContainer");
 const paginationContainer = document.getElementById("pagination");
 const searchInput = document.getElementById("searchInput");
